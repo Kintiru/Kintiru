@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```math
-\ce{$&#x5C;unicode[goombafont; background-image: url('https://github.com/Kintiru/Kintiru/blob/main/GOyiiG3WoAE-5cy.jpg');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; background-image: url('https://github.com/Kintiru/Kintiru/blob/main/GOyiiG3WoAE-5cy.jpg?raw=true');]{x0000}$}
 ```
