@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 1000; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; width: 100vw; height: 100vh; opacity: 1; background: url('https://github.com/Kintiru/Kintiru/blob/main/GPeEpb-aoAAMVRH.jpg?raw=true'); background-repeat: repeat; background-position: center; margin: 0; animation: fade-in 2s ease-out;]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; background-image: url('https://github.com/Kintiru/Kintiru/blob/main/GOyiiG3WoAE-5cy.jpg?raw=true');]{x0000}$}
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 1; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; width: 100vw; height: 100vh; opacity: 0.1; background: url('https://github.com/Kintiru/Kintiru/blob/main/GPeEpb-aoAAMVRH.jpg?raw=true'); background-repeat: repeat; background-position: center; margin: 0;"]{} % animation: fade-in 2s ease-out;
-%\begin{aligned}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 1; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; width: 100vw; height: 100vh; opacity: 0.5; background: url('https://github.com/Kintiru/Kintiru/blob/main/GPeEpb-aoAAMVRH.jpg?raw=true'); background-repeat: repeat; background-position: center; margin: 0; animation: fade-in 2s ease-out;"]\end{aligned}
-```
