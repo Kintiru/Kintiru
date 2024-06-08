@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100%; width: 100vw; opacity: 0.5; background: url('https://github.com/Kintiru/Kintiru/blob/main/GPeEpb-aoAAMVRH.jpg?raw=true'); background-repeat: no-repeat; background-position: center; margin: 0;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100vw 100vh; width: 100vw; opacity: 0.5; background: url('https://github.com/Kintiru/Kintiru/blob/main/GPeEpb-aoAAMVRH.jpg?raw=true'); background-repeat: no-repeat; background-position: center; margin: 0;]{x0000}$}
 \ce{$&#x5C;unicode[goombafont; background-image: url('https://github.com/Kintiru/Kintiru/blob/main/GOyiiG3WoAE-5cy.jpg?raw=true');]{x0000}$}
 ```
